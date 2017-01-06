@@ -1,2 +1,2 @@
 # afa-scripts
-Scripts written while I was at AFA
+Scripts written while I am at AFA
